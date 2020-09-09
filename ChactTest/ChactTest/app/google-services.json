@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "578762584317",
+    "firebase_url": "https://dizzybird-ce1e0.firebaseio.com",
+    "project_id": "dizzybird-ce1e0",
+    "storage_bucket": "dizzybird-ce1e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578762584317:android:3bb3ecbcad2b6641598e94",
+        "android_client_info": {
+          "package_name": "com.example.berkay.chacttest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578762584317-tlt9uo98ju6geqfaa2arvmmqko69qrn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARhYImIfgYi30bkJ0ZcSeBo5DDPQt7yHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578762584317-tlt9uo98ju6geqfaa2arvmmqko69qrn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

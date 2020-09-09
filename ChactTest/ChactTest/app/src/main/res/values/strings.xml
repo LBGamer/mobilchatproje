@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dizzy Bird</string>
+    <string name="need_a_new_account">SIGN IN</string>
+    <string name="display_name">Display Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="log_out">Log Out</string>
+    <string name="login">LOGIN</string>
+    <string name="welcome_to_dizzy_birds">Welcome to Dizzy \nBird App </string>
+    <string name="den_z_ha_buraya_ku_resm_koycaz">DENİZ HA BURAYA KUŞ RESMİ KOYCAZ</string>
+    <string name="login_to_your_account">Login to your Account</string>
+    <string name="create_a_new_account">Create a New Account</string>
+    <string name="this_is_the_main_page">This Is The Main Page</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="hi_there_i_m_using_stupid_birds">Hi there, I\'m using Stupid Birds</string>
+    <string name="your_status">Your Status</string>
+    <string name="save_change">SAVE CHANGE</string>
+    <string name="current_user_status">Current User Status</string>
+    <string name="total_friends">Total Friends</string>
+    <string name="send_friend_request">SEND FRIEND REQUEST</string>
+    <string name="user_profile_image">user_profile_image</string>
+    <string name="user_default_status">User Default Status</string>
+    <string name="display_namee">Display name</string>
+    <item name="visible" type="id" />
+    <item name="masked" type="id" />
+</resources>
